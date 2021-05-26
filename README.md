@@ -3,7 +3,7 @@
 ## 👩‍💻 알고리즘 사이트
 ![boj](img/boj_logo.png)
 
->[백준][http://boj.kr]
+>[백준][https://www.acmicpc.net/]
 
 ![swea](img/swea_logo.png)
 
